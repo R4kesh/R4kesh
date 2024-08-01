@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">
-  <span class="typing">A budding web developer, believes that the perfect user experience begins with a single line of code.</span>
+  <span class="typing">A budding web developer, believes that the perfect user experience begins with a single line of code </span>
 </h3>
 
 <p align="center">
