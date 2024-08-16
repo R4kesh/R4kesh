@@ -12,6 +12,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4kesh" alt="r4kesh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/rakeshsundaresan/"></a>
 <p align="left">
 </p>
 
