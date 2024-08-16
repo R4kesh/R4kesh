@@ -1,7 +1,7 @@
-<h1 align="center">Hi</h1>
-<p align="center" style={{color:"red"}}>
+
+<h1 align="center"><p align="center" style={{color:"red"}}>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=ffffff&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakesh" alt="Typing SVG">
-</p>
+</p></h1>
 <h3 align="center">
   <span class="typing">A budding web developer, believes that the perfect user experience begins with a single line of code </span>
 </h3>
