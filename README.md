@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1>
-<p align="center" style={{backgroundColor:"red"}}>
+<p align="center" style={{color:"red"}}>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=000000&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakesh" alt="Typing SVG">
 </p>
 <h3 align="center">
